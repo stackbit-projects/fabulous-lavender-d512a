@@ -17,7 +17,7 @@ sections:
     grid_items:
       - title: Better Partner Outcomes
         content: >
-          Leverage Affinidi Well-Architected Partner Program to deliver better
+          Leverage Unifier's Well-Architected Partner Program to deliver better
           customer outcomes by evaluating and improving workloads.
         actions:
           - label: Get Started
