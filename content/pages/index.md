@@ -46,10 +46,11 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: A Section With An Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      The Affinidi Partner Programs provide you with various benefits and
+      promotional support including increased visibility with customers and
+      Affinidi teams, opportunities to engage with customers, access to funding
+      benefits and go-to-market resources, and more.
     actions:
       - label: View Demo
         url: /docs/getting-started
