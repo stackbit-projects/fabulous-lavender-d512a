@@ -85,7 +85,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Watch Unifier's On-Demand Partner Program Webinar
-    subtitle: 'Get insights on program overview, benefits, and '
+    subtitle: 'Get insights on program overview, benefits, and requirements'
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
