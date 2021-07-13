@@ -47,9 +47,9 @@ sections:
     image_position: left
     title: Unifier Partner Program
     content: >
-      The Affinidi Partner Programs provide you with various benefits and
+      The Unifier Partner Programs provide you with various benefits and
       promotional support including increased visibility with customers and
-      Affinidi teams, opportunities to engage with customers, access to funding
+      Unifier teams, opportunities to engage with customers, access to funding
       benefits and go-to-market resources, and more.
     actions:
       - label: View Demo
