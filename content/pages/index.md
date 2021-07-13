@@ -32,7 +32,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-      - title: Style Guide
+      - title: Increase Visibility
         content: >
           Gain visibility with customers and Unifier Partners by being showcased
           across Unifier and Affinidi's webpages including the Unifier Partner
