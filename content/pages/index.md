@@ -87,7 +87,7 @@ sections:
     title: Watch Unifier's On-Demand Partner Program Webinar
     subtitle: 'Get insights on program overview, benefits, and requirements'
     actions:
-      - label: Get Started
+      - label: Watch Now
         url: /docs/getting-started/installation
         style: primary
 seo:
