@@ -24,9 +24,10 @@ sections:
             url: /docs
             style: link
       - title: Adopt Best Practices
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Adopting Affinidi architectural best practices enables you to save
+          time, costs, drive efficiency and provide fact-based improvement plans
+          to customers to track and improve workload compliance.
         actions:
           - label: View Posts
             url: /blog
