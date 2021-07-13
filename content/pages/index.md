@@ -64,7 +64,7 @@ sections:
     subtitle: Case Studies
     col_number: two
     grid_items:
-      - title: Accredify and Changi Airport
+      - title: 'Accredify and Changi Airport, Singapore'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
