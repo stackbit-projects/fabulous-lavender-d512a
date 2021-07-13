@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Affinidi Partner Program
+    title: Unifier Partner Program
     image: images/5.jpg
     content: |
       Programs to help Issuers build, market, and sell your offerings
