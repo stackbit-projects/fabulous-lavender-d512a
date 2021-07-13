@@ -45,7 +45,7 @@ sections:
     type: section_content
     image: images/jamstack.svg
     image_position: left
-    title: Affinidi Partner Program
+    title: Unifier Partner Program
     content: >
       The Affinidi Partner Programs provide you with various benefits and
       promotional support including increased visibility with customers and
