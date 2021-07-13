@@ -45,7 +45,7 @@ sections:
     type: section_content
     image: images/jamstack.svg
     image_position: left
-    title: A Section With An Image
+    title: Affinidi Partner Programs
     content: >
       The Affinidi Partner Programs provide you with various benefits and
       promotional support including increased visibility with customers and
