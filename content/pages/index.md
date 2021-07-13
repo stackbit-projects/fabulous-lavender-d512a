@@ -16,10 +16,9 @@ sections:
     col_number: three
     grid_items:
       - title: Better Partner Outcomes
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Leverage Affinidi Well-Architected Partner Program to deliver better
+          customer outcomes by evaluating and improving workloads.
         actions:
           - label: Get Started
             url: /docs
